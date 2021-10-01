@@ -1,12 +1,1 @@
-matcha
-cafe
-quit
-2
-10
-quit
-matcha
-cafe
-quit
-2
-10
-quit
+Hello world!
