@@ -1,1 +1,8 @@
-Ã¡cÄ©
+Nguyên
+Nghia
+Duy
+Minh
+Xin chào Nguyên
+Xin chào Nghia
+Xin chào Duy
+Xin chào Minh
