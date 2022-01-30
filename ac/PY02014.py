@@ -1,5 +1,4 @@
 def is_prime(n: int):
-    """Primality test using 6k+-1 optimization."""
     if n <= 3:
         return n > 1
     if n % 2 == 0 or n % 3 == 0:
@@ -20,6 +19,7 @@ for i in arr:
         # print(i)
         i_left=i
         i_right=i
+        # tim so nt gan nhat 
         while(not is_prime(i_left) and not is_prime(i_right)):
             i_left-=1
             i_right+=1
